@@ -31,7 +31,7 @@ payroll database with `departments` and `employees` tables.
 Outputs for A1, A2, A3 (error and fix), A4, B5 and C1 are in `screenshots/`.
 
 ## Notes
-- Tested in Oracle: <write your tool here, e.g. SQL Developer / Oracle XE / Live SQL>.
+- Tested in Oracle 21c using Oracle SQL Developer.
 - Tax brackets in `fn_calculate_tax` are: 0% up to 60,000; 20% from 60,001 to 100,000; 30% above 100,000.
 - **AI usage:** I used an AI assistant (Claude) to help review my repository, draft
   the B2 to C1 functions and test files, and outline this README. I ran and tested
